@@ -18,7 +18,7 @@ The project includes:
 - Interactive Power BI Dashboard
 - Streamlit Deployment
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 The Power BI dashboard provides an interactive overview of healthcare operations and patient characteristics.
 
@@ -49,13 +49,13 @@ The Power BI dashboard provides an interactive overview of healthcare operations
 - Insurance Provider Analysis
 - Admission and Financial Trends
 
-## 🤖 Machine Learning
+##  Machine Learning
 
 Machine learning models were developed to identify patterns in the healthcare data and generate predictions based on relevant patient features.
 
 Different models were evaluated using appropriate performance metrics to identify the best-performing approach.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python
 - Pandas
@@ -69,7 +69,7 @@ Different models were evaluated using appropriate performance metrics to identif
 - Streamlit
 - Jupyter Notebook
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 health-care/
